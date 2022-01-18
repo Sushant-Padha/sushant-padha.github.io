@@ -7,6 +7,11 @@ I am interested in algorithmic programming and problem solving through programmi
 
 Also, Python is the best (scripting) language, OOP is great and tabs are better than spaces!
 
+# Stuff to look at
+
+While you are here, check out some of my projects' docs:
+- [TimetableSolver.jl](https://sushant-padha.github.io/TimetableSolver.jl)
+
 # Technologies
 
 Languages I have learnt:
