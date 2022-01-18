@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/Sushant-Padha/sushant-padha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey! I am [Sushant Padha](https://github.com/Sushant-Padha). I am a 15-year old hobby programmer from India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I originally started learning Python in 2019. I had always been interested by math and logic so I pursued programming as a hobby.
+I am interested in algorithmic programming and problem solving through programming. I am looking forward to learning more about it, using Julia and Python.
 
-### Markdown
+Also, Python is the best (scripting) language, OOP is great and tabs are better than spaces!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Technologies
 
-```markdown
-Syntax highlighted code block
+Languages I have learnt:
+- [Python](https://github.com/search?l=Python&q=user%3ASushant-Padha)
+- [Julia](https://github.com/search?l=Julia&q=user%3ASushant-Padha)
+- [PowerShell](https://github.com/search?l=PowerShell&q=user%3ASushant-Padha)
+- [mcfunction](https://github.com/search?l=mcfunction&q=user%3ASushant-Padha) (minecraft datapack programming language)
+- [AutoHotKey](https://github.com/search?l=AutoHotkey&q=user%3ASushant-Padha)
+- (basic) JS, HTML, CSS
 
-# Header 1
-## Header 2
-### Header 3
+Tools that I use frequently:
+- Visual Studio Code as my primary code editor
+- Git for version control
+- GitHub Actions for CI/CD
 
-- Bulleted
-- List
+More stuff that I intend to learn:
+- [ ] Machine Learning
 
-1. Numbered
-2. List
+# Projects
 
-**Bold** and _Italic_ and `Code` text
+I am currently working on:
+- [TimetableSolver.jl](https://github.com/Sushant-Padha/TimetableSolver.jl): Julia package to create a timetable schedule, using [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl) and [JuMP](https://github.com/jump-dev/JuMP.jl).
 
-[Link](url) and ![Image](src)
-```
+Other projects that I have created are:
+- [tictactoe](https://github.com/Sushant-Padha/tictactoe): Simple console-based tictactoe game written in Python.
+- [vignere-cipher](https://github.com/Sushant-Padha/vignere-cipher): Basic implementation of a [Vigenere Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) in Python.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Links
 
-### Jekyll Themes
+Email: sushant.padha@gmail.com  
+GitHub: [@Sushant-Padha](https://github.com/Sushant-Padha)  
+StackOverflow: [sushant_padha](https://stackoverflow.com/users/15083607/sushant-padha)  
+Julia Discourse: [sushant-padha](https://discourse.julialang.org/u/sushant-padha/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sushant-Padha/sushant-padha.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!--
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sushant-Padha/sushant-padha.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.-->
